@@ -1,4 +1,6 @@
 {
   "server": "https://matrix.gumblert.tech:8448",
-  "as_token": "21975ecb71c298c4"
+  "as_token": "21975ecb71c298c4",
+  "bot_username": "",
+  "bot_password": ""
 }
