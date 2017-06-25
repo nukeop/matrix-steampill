@@ -7,4 +7,4 @@ namespaces:
   rooms: []
   aliases:
     - exclusive: false
-      regex:"#steam_.*"
+      regex: "#steam_.*"
