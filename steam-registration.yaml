@@ -1,10 +1,12 @@
-url: "http://localhost:5000"
-as_token: 21975ecb71c298c4
-hs_token: abd7ef58d8c7999c
+id: "4198fb419a575e09"
 
-namespaces:
-  users: []
-  rooms: []
-  aliases:
-    - exclusive: false
-      regex: "#steam_.*"
+  url: "http://localhost:5000"
+  as_token: 21975ecb71c298c4
+  hs_token: abd7ef58d8c7999c
+
+  namespaces:
+    users: []
+    rooms: []
+    aliases:
+      - exclusive: false
+        regex: "#steam_.*"
