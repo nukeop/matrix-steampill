@@ -7,3 +7,6 @@
 - `$ python run.py`
 
 The bridge will log to steampill.log until it reaches 2MB in size, then it will rotate the logs between 3 files. It also outputs everything to the terminal.
+
+# Official matrix channel
+[#matrix_steam:matrix.gumblert.tech](https://matrix.gumblert.tech:8448/#/#matrix_steam:matrix.gumblert.tech)
